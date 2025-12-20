@@ -53,6 +53,9 @@ export const PipelineUI = () => {
       onConnect,
       updateNodeData
     } = useStore(selector, shallow);
+    console.log(nodes, "nodes hurray")
+
+    console.log(edges,"edges hooray")
 
      const nodesWithHandlers = useMemo(() => {
       return nodes.map(node => ({
