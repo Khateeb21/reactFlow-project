@@ -380,7 +380,7 @@ LinkedIn:
 https://www.linkedin.com/in/khateeb-ahmed-b1659b184/
 
 GitHub:
-(Add your GitHub link here)
+https://www.github.com/khateeb21
 
 Phone (Preferred):
 +91 7006763947
